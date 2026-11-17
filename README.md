@@ -11,10 +11,6 @@
 - Healthcare AI with Break Through Tech
 - Open-source contributions to scikit-learn
 
-### 🛠️ Technical skills
-
-Python · scikit-learn · pandas · NumPy · PyTorch · Git · Jupyter
-
 ### 📌 Featured projects
 
 - 📂 [Healthcare AI Studio](https://github.com/Break-Through-Tech/Healthcare-1A-predicting-organ-transplant-waitlist-outcomes-and-optimizing-allocation)
