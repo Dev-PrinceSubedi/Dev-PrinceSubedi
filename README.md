@@ -18,7 +18,7 @@ Python · scikit-learn · pandas · NumPy · PyTorch · Git · Jupyter
 ### 📌 Featured projects
 
 - 📂 [Healthcare AI Studio](https://github.com/Break-Through-Tech/Healthcare-1A-predicting-organ-transplant-waitlist-outcomes-and-optimizing-allocation)
-- 📂 [ML Dimensionality Reduction](https://github.com/Dev-PrinceSubedi/ml-dim-reduction-experiments)
+- 📂 [ML Dimensionality Reduction]([https://github.com/Dev-PrinceSubedi/ml-dim-reduction-experiments](https://github.com/Dev-PrinceSubedi/retention-sensitivity-tabular))
 - 🔀 [scikit-learn Open-Source Contribution — PR #35205](https://github.com/scikit-learn/scikit-learn/pull/35205)
 
 ---
