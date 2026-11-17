@@ -1,7 +1,9 @@
 
 # Hi, I'm Prince 👋
 
-Computer Science student passionate about machine learning, AI research, and computational neuroscience.
+### ✨ What I Do
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&width=650&lines=AI+%26+Machine+Learning+Researcher;Computational+Neuroscience+Enthusiast;Open-Source+Contributor;Building+AI+for+Real-World+Impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ### 🔭 Currently working on
 
@@ -21,9 +23,26 @@ Python · scikit-learn · pandas · NumPy · PyTorch · Git · Jupyter
 
 ---
 
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/prince-r-subedi/) · [Portfolio](https://portfolio-princesubedi.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/prince-r-subedi/) 
+
+
+
+
 
 
 <!--
