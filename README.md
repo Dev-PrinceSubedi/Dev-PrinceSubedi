@@ -37,8 +37,8 @@ Python · scikit-learn · pandas · NumPy · PyTorch · Git · Jupyter
 ---
 
 ### 📫 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/prince-r-subedi/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prince-r-subedi/)
+- 📧 Email: princerajsubedi@gmail.com   
 
 
 
